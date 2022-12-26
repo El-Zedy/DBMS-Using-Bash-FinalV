@@ -1,7 +1,7 @@
 #!/bin/bash
 export LC_COLLATE=C             #Terminal Case Sensitive
 shopt -s extglob                #import Advanced Regex
-echo -e "\n -------- TABLES TO CONNECT ---------- \n"
+echo -e "\n -------- TABLES TO UPADATE ---------- \n"
 ls -F ./ |  sed -n '/meta_/!p' | column -t
 echo -e "\n  ------------------------------"
 echo -n "   ==> Please Enter Table Name : "
