@@ -1,0 +1,4 @@
+FieldName|FieldType|Key
+id|int|itIsPK
+age|int|	
+name|string|	
