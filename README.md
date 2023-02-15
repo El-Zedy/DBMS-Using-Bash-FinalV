@@ -37,6 +37,11 @@ Once you have cloned the repository, navigate to the project directory using the
   
 This will launch the CLI interface, and you will be presented with the main menu.
 
+## Project run samples:
+     - https://github.com/El-Zedy/DBMS-Using-Bash-FinalV/blob/main/screens/screen%20sample%20-1.png
+     - https://github.com/El-Zedy/DBMS-Using-Bash-FinalV/blob/main/screens/screem%20sample-2.png
+     - https://github.com/El-Zedy/DBMS-Using-Bash-FinalV/blob/main/screens/screen%20sample-3.png
+
 ## Contributing
 If you would like to contribute to this project, please fork the repository and make your changes. Once you have made your changes, submit a pull request and the project owner will review your changes.
 
